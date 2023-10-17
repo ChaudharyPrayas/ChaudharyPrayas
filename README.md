@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Prayas Chaudhary currently learning python
+I am Prayas Chaudhary currently learning dsa
 
 <!--
 **ChaudharyPrayas/ChaudharyPrayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
